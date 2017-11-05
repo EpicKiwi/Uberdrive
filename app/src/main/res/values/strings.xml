@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Uberdrive</string>
+    <string name="welcomeSubtitle">Welcome</string>
+    <string name="loginInvite">Please login before using this application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Log in</string>
+    <string name="baseRequestUrl" translatable="false">http://192.168.1.21:8080/api/</string>
+    <string name="badLoginError">Bad username or password</string>
+    <string name="genericError">An error occured</string>
+    <string name="title_activity_register" translatable="false">RegisterActivity</string>
+    <string name="passwordCheck">Password check</string>
+    <string name="welcomeRegister">Register now</string>
+    <string name="passwordMatchError">The passwords doesn\'t match</string>
+    <string name="emptyField">Required field</string>
+    <string name="invitationMessage">Where do you want to go ?</string>
+    <string name="sharedPreferenceName" translatable="false">uberdriveSP</string>
+    <string name="distanceUnit">%1$d Ml</string>
+    <string name="title_activity_planet" translatable="false">PlanetActivity</string>
+    <string name="distancePlanetField">Distance</string>
+    <string name="climatPlanetField">Climat</string>
+    <string name="terrainPlanetFIeld">Terrain</string>
+    <string name="populationPlanetField">Population</string>
+    <string name="diameterplanetField">Diameter</string>
+    <string name="gravityPlanetField">Gravity rate</string>
+    <string name="planetGoButton">Let\'s go !</string>
+    <string name="loading">Loading</string>
+    <string name="diameterUnit">%1$d Km</string>
+    <string name="gravityUnit">%1$s Hg</string>
+    <string name="populationUnit">%1$d hab</string>
+    <string name="title_activity_simulation">Your journey</string>
+    <string name="spaceshipSelection">Spaceship selection</string>
+    <string name="shipSpeedUnit">%1$d Ml/h</string>
+    <string name="shipPriceUnit">%1$s Gc/Ml</string>
+    <string name="loadingJourney">Loading your journey</string>
+    <string name="journeyStart">From</string>
+    <string name="journeyEnd">To</string>
+    <string name="journeySpaceship">With</string>
+    <string name="JourneyDistance">Distance</string>
+    <string name="JourneyDuration">Duration</string>
+    <string name="journeyTotalPrice">Total</string>
+    <string name="journeyValidate">Pay and go</string>
+    <string name="durationUnit">%1$s h</string>
+    <string name="priceUnit">%1$s gC</string>
+    <string name="journeyCompletedSubtitle">You can find this journey in your personnal page</string>
+    <string name="journeyCompleted">Have a good day !</string>
+    <string name="journeyCompletedBack">Back to home</string>
+</resources>

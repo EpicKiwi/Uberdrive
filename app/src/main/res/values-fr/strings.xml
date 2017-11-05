@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uberdrive</string>
+    <string name="welcomeSubtitle">Bienvenue</string>
+    <string name="loginInvite">Veuillez vous connecter pour utiliser l\'application</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="badLoginError">Mauvais nom d\'utilisateur ou mot de passe</string>
+    <string name="genericError">Une érreur est survenue</string>
+    <string name="passwordCheck">Vérification</string>
+    <string name="welcomeRegister">Enregistrez vous</string>
+    <string name="passwordMatchError">Les mots de passe ne correspondent pas</string>
+    <string name="emptyField">Champ requis</string>
+    <string name="invitationMessage">Où voulez vous aller ?</string>
+    <string name="distanceUnit">%1$d Ml</string>
+    <string name="distancePlanetField">Distance</string>
+    <string name="climatPlanetField">Climat</string>
+    <string name="terrainPlanetFIeld">Terrain</string>
+    <string name="populationPlanetField">Population</string>
+    <string name="diameterplanetField">Diametre</string>
+    <string name="gravityPlanetField">Gravitation</string>
+    <string name="planetGoButton">C\'est parti !</string>
+    <string name="loading">Chargement</string>
+    <string name="diameterUnit">%1$d Km</string>
+    <string name="gravityUnit">%1$s gT</string>
+    <string name="populationUnit">%1$d hab</string>
+    <string name="title_activity_simulation">Votre trajet</string>
+    <string name="spaceshipSelection">Choisissez votre vaisseau</string>
+    <string name="shipSpeedUnit">%1$d Ml/h</string>
+    <string name="shipPriceUnit">%1$s Cg/Ml</string>
+    <string name="loadingJourney">Chargement de votre trajet</string>
+    <string name="journeyStart">Départ</string>
+    <string name="journeyEnd">Déstination</string>
+    <string name="journeySpaceship">Avec</string>
+    <string name="JourneyDistance">Distance</string>
+    <string name="JourneyDuration">Durée</string>
+    <string name="journeyTotalPrice">Total</string>
+    <string name="journeyValidate">Payer et valider</string>
+    <string name="durationUnit">%1$s h</string>
+    <string name="priceUnit">%1$s Cg</string>
+    <string name="journeyCompletedSubtitle">Vous pouvez retrouver ce voyage sur votre profil</string>
+    <string name="journeyCompleted">Bon voyage !</string>
+    <string name="journeyCompletedBack">Retour à l\'accueil</string>
+</resources>
